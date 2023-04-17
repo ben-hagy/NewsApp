@@ -1,0 +1,11 @@
+Note that you may need to uninstall and reinstall the app if saved news entries are causing a crash,
+this is due to Room database versioning.
+
+If you're getting errors with returns, it's probably because it's the free version of the API, only
+100 pings allowed per day or something like that.
+
+Also note that this app was built following this playlist:
+https://www.youtube.com/watch?v=asuOWE5KuFM&list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ&index=1
+
+And finally, that I've done my own write-up on loosely following this project setup, located here:
+https://docs.google.com/document/d/1hPMXZ4znNPzpJrppmkp9llpqPt5bz7Y99djrlLceuUs/edit#
